@@ -13,7 +13,7 @@ In this BI project, I have cleaned, formated the data from [AdventureWorks](http
 <img width="517" alt="image" src="https://user-images.githubusercontent.com/41228969/208550670-9318e8ee-0386-4274-a507-7c3ae225dbf6.png">
 
 
-> Database Design Model
+> Table Design Model
 <img width="679" alt="image" src="https://user-images.githubusercontent.com/41228969/208551042-1b54f68d-ef36-4b7a-8602-33d1f7be4fdb.png">
 
 
