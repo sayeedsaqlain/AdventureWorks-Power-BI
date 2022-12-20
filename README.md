@@ -28,4 +28,5 @@ In this BI project, I have cleaned, formated the data from [AdventureWorks](http
 > Dashboard 3 - Products
 <img width="906" alt="image" src="https://user-images.githubusercontent.com/41228969/208551341-a1d4108f-eda6-44c1-9399-1507189c399a.png">
 
-
+## Links
+Here's the link to my Power BI workspace - [Open Dashboard](https://app.powerbi.com/groups/me/reports/ed4571d1-47ab-4b52-a6bf-1381e869b09b/ReportSection6519b4b0b2e7f0b5cd86)
